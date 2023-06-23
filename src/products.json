@@ -1,0 +1,29 @@
+[{
+    "id": 1,
+    "nombre": "cerveza",
+    "precio": 400,
+    "stock": 20
+},
+
+{
+    "id": 2,
+    "nombre": "fernet",
+    "precio": 2400,
+    "stock": 20
+},
+
+{
+    "id": 3,
+    "nombre": "jugo baggio",
+    "precio": 200,
+    "stock": 20
+},
+
+{
+    "id": 4,
+    "nombre": "agua mineral",
+    "precio": 230,
+    "stock": 20
+}]
+
+
